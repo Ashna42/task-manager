@@ -62,6 +62,3 @@ task-manager/
 - Browser Local Storage.
 - Responsive web design.
 
-## Author
-
-YOUR NAME
